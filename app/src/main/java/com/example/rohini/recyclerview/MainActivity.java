@@ -52,6 +52,7 @@ public class MainActivity extends AppCompatActivity {
                 }
 
             });
+
             @Override
             public boolean onInterceptTouchEvent(RecyclerView Recyclerview, MotionEvent motionEvent) {
 
